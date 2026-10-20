@@ -6,7 +6,7 @@ This is an idea list, not a claim that all stories have been researched or appro
 
 | ID | Working title | Category | Main values | Source starting point | Status |
 |---|---|---|---|---|---|
-| [`prophet-yusuf`](../books/prophets/prophet-yusuf/README.md) | **Prophet Yusuf: A Story of Patience and Forgiveness** | Prophets | Patience, trust in Allah, forgiveness | Qur'an, Surah Yusuf (12:4–101); selected tafsir context checked | In progress — Sections 1–4 drafted; awaiting parent review |
+| [`prophet-yusuf`](../books/prophets/prophet-yusuf/README.md) | **Prophet Yusuf: A Story of Patience and Forgiveness** | Prophets | Patience, trust in Allah, forgiveness | Qur'an, Surah Yusuf (12:4–101); selected tafsir context checked | In progress — Section 1 parent-approved; Sections 2–4 drafted and awaiting parent review |
 | `prophet-ibrahim` | **Prophet Ibrahim: Trusting Allah** | Prophets | Trust, courage, devotion | Qur'an passages about Ibrahim; identify and map relevant passages during research | Idea — not researched |
 | `prophet-nuh` | **Prophet Nuh: Keep Doing What Is Right** | Prophets | Patience, perseverance | Qur'anic passages about Nuh; research details and age-appropriate scope | Idea — not researched |
 | `prophet-musa` | **Prophet Musa: Allah Helps in Difficult Times** | Prophets | Courage, trust, gratitude | Qur'anic passages about Musa; split the broad account into a focused book or series | Idea — not researched |

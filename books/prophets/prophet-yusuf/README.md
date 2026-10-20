@@ -1,7 +1,7 @@
 # Prophet Yusuf: A Story of Patience and Forgiveness
 
 - **Book ID:** `prophet-yusuf`
-- **Status:** Skeleton — needs parent review
+- **Status:** In progress — Section 1 draft awaiting parent review
 - **Audience:** Children aged 3–6, read aloud by a caregiver
 - **Language:** English; explain occasional unfamiliar words in brackets
 - **Format:** Approximately 4–5 minutes per section
@@ -14,6 +14,10 @@ This book follows the account of Prophet Yusuf in Qur'an 12:4–101: his dream, 
 ## Reading approach
 
 The core account should remain understandable to ages 3–4. Difficult events must be stated gently and honestly, without graphic detail or invented dialogue. Optional notes for ages 5–6 may add source-grounded context but must not be necessary to follow the story.
+
+## Progress
+
+Section 1, [A Dream of Stars](sections/01-a-dream-of-stars.md), has been drafted and is awaiting parent review. The remaining sections are still planned.
 
 ## Files
 

@@ -2,7 +2,7 @@
 
 **Book ID:** `prophet-yusuf`  
 **Last checked:** 2026-10-20  
-**Status:** Initial research register; parent review required.
+**Status:** Initial research register; Section 1 parent-approved, remaining sections and the full book still require parent review.
 
 ## Source policy
 
@@ -38,6 +38,6 @@ The Qur'an is the primary source for the story. The English rendering consulted 
 - This is an initial source-backed skeleton, not a scholarly commentary. The full surah is the primary basis; not every possible tafsir issue has been exhaustively researched.
 - The child-facing story should paraphrase carefully rather than reproduce long stretches of a published translation.
 - The exact historical setting, many personal names, Yusuf's age, the elapsed years, and other details are not to be supplied unless independently verified from a reliable source and genuinely needed.
-- The household incident in 12:23–35 needs parent review for age suitability. The outline proposes brief, non-graphic treatment.
+- Sections 2–4 still need parent review for age suitability, particularly the family conflict and household incident in 12:23–35. The approval of section 1 does not imply approval of the rest of the book.
 - The lesson in section 3 (“A hard change does not mean Allah has forgotten us”) is a proposed child-facing reflection, not a quotation from the Qur'an. Parent review is recommended to ensure the wording does not overstate the source.
 - No hadith is required to establish the main plot sequence for this book. If a hadith is added later, its exact collection reference, wording, and grading must be verified before use.

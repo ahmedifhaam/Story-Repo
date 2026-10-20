@@ -19,6 +19,7 @@ A carefully researched, growing library of read-aloud stories for children aged 
 3. Review the [book catalogue](catalogue/BOOKS.md).
 4. Use [the master prompt](prompts/MASTER_PROMPT.md) when working with an AI assistant that can research the web and edit repository files.
 5. Use [the workflow](prompts/WORKFLOW.md) to create or continue a book without generating it all at once.
+6. Use the [A6 print PDF prompt](prompts/PRINT_PDF_PROMPT.md) to format reviewed stories as monochrome, laser-printer-friendly booklets.
 
 ## Repository layout
 
@@ -31,6 +32,7 @@ Story-Repo/
 │   └── VALUES.md
 ├── prompts/
 │   ├── MASTER_PROMPT.md
+│   ├── PRINT_PDF_PROMPT.md
 │   └── WORKFLOW.md
 ├── catalogue/
 │   └── BOOKS.md
@@ -48,6 +50,10 @@ Git does not track empty directories, so each book directory will gain its own f
 **First invocation for a book:** research the topic, record sources, propose a section-by-section outline, and save a reviewable skeleton. Do not write the complete book.
 
 **Later invocations:** review and improve the outline or write exactly one requested section. Save it as a separate file, include its sources and moral, and update the progress tracker. Never generate multiple story sections in a single run unless the parent explicitly asks for that.
+
+## How printable PDFs work
+
+Use `prompts/PRINT_PDF_PROMPT.md` after the story sections have been reviewed. It specifies **A6 portrait (105 × 148 mm)**, pure black-and-white line art for a monochrome laser printer, printer-safe margins, readable type, and the rule that prophets and Allah must never be depicted. It instructs the PDF creator to preserve approved text, check every page, and provide a verified PDF file.
 
 ## Suggested first book
 

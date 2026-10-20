@@ -1,13 +1,13 @@
 # Progress — Prophet Yusuf: A Story of Patience and Forgiveness
 
-**Overall status:** Skeleton — needs parent review  
+**Overall status:** In progress — Section 1 draft needs parent review  
 **Last updated:** 2026-10-20
 
-No story section has been written. All entries remain **Planned**.
+Section 1 has been saved as a draft. It is awaiting parent review; the remaining sections are still planned.
 
 | Section | Working title | Status | Notes |
 |---|---|---|---|
-| 1 | A Dream of Stars | Planned | Outline and source references only |
+| 1 | A Dream of Stars | Draft — parent review | Draft saved; source checked against Qur'an 12:4–6 and 12:100. Not yet parent-approved. |
 | 2 | A Painful Plan | Planned | Outline and source references only |
 | 3 | A New Place in Egypt | Planned | Outline and source references only |
 | 4 | Choosing What Is Right | Planned | Age-suitability review recommended |

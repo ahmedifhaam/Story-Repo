@@ -1,7 +1,7 @@
 # Outline — Prophet Yusuf: A Story of Patience and Forgiveness
 
 **Book ID:** `prophet-yusuf`  
-**Status:** **In progress — Section 1 draft awaiting parent review**  
+**Status:** In progress — Sections 1–4 drafted and awaiting parent review  
 **Audience:** Ages 3–6; caregiver read-aloud  
 **Length plan:** 10 sections, each approximately 4–5 minutes  
 **Primary narrative:** Qur'an, Surah Yusuf 12:4–101  
@@ -13,7 +13,7 @@ A gentle, source-led account of how Prophet Yusuf faces painful and difficult ev
 
 ## Age fit and read-aloud approach
 
-- Keep the main story concrete, calm, and clear for ages 3–4.
+- Keep the main story concrete and calm for ages 3–4.
 - Use short paragraphs, clear transitions, and only occasional unfamiliar words explained immediately.
 - For ages 5–6, optional parent notes may connect events across the story or point out how the dream is fulfilled.
 - Do not invent scenes, dialogue, thoughts, motives, sensory details, or timelines to make the story more dramatic.
@@ -74,4 +74,4 @@ Surah Yusuf itself provides the main sequence. It includes Yusuf's dream and Ya'
 
 ## Status
 
-**In progress — Section 1 draft awaiting parent review.** Section 1 exists as a separate file; sections 2–10 remain planned.
+**In progress — Sections 1–4 drafted and awaiting parent review.** Sections 5–10 remain planned.

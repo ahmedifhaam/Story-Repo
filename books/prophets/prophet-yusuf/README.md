@@ -1,7 +1,7 @@
 # Prophet Yusuf: A Story of Patience and Forgiveness
 
 - **Book ID:** `prophet-yusuf`
-- **Status:** In progress — Sections 1–4 drafted and awaiting parent review
+- **Status:** In progress — Section 1 parent-approved; Sections 2–4 drafted and awaiting parent review
 - **Audience:** Children aged 3–6, read aloud by a caregiver
 - **Language:** English; explain occasional unfamiliar words in brackets
 - **Format:** Approximately 4–5 minutes per section
@@ -17,11 +17,10 @@ The core account should remain understandable to ages 3–4. Difficult events mu
 
 ## Progress
 
-Sections 1–4 are drafted and awaiting parent review:
-- [Section 1 — A Dream of Stars](sections/01-a-dream-of-stars.md)
-- [Section 2 — A Painful Plan](sections/02-a-painful-plan.md)
-- [Section 3 — A New Place in Egypt](sections/03-a-new-place-in-egypt.md)
-- [Section 4 — Choosing What Is Right](sections/04-choosing-what-is-right.md)
+- **Section 1 — A Dream of Stars:** parent-approved on 2026-10-20. The wording remains unchanged; the A6 black-and-white PDF has been updated to reflect approval.
+- **Section 2 — A Painful Plan:** draft — parent review.
+- **Section 3 — A New Place in Egypt:** draft — parent review.
+- **Section 4 — Choosing What Is Right:** draft — parent review.
 
 Sections 5–10 remain planned. See the [progress tracker](progress.md).
 
@@ -34,4 +33,4 @@ Sections 5–10 remain planned. See the [progress tracker](progress.md).
 
 ## Scope and review note
 
-This is an age-adapted retelling plan, not a substitute for Qur'anic study or religious rulings. The parent should review the treatment of family conflict, the household incident in 12:23–35, imprisonment, and the later brothers' encounter before any section is considered approved.
+This is an age-adapted retelling plan, not a substitute for Qur'anic study or religious rulings. Sections 2–4 still require parent review, including the treatment of family conflict and the household incident in 12:23–35. Later sections must also be reviewed before they are considered approved.

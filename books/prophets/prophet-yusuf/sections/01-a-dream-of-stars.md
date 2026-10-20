@@ -1,5 +1,7 @@
 # Section 1 — A Dream of Stars
 
+**Status:** Reviewed — parent-approved on 2026-10-20. The story text below remains unchanged.
+
 Have you ever had a dream that you wanted to tell someone about? Perhaps you woke up remembering something surprising. When something is important to us, we often want to share it with someone we trust.
 
 The Qur'an begins this part of the story with Prophet Yusuf (peace be upon him) speaking to his father, Prophet Ya'qub (peace be upon him).

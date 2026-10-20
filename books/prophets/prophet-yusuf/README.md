@@ -1,7 +1,7 @@
 # Prophet Yusuf: A Story of Patience and Forgiveness
 
 - **Book ID:** `prophet-yusuf`
-- **Status:** In progress — Section 1 draft awaiting parent review
+- **Status:** In progress — Sections 1–4 drafted and awaiting parent review
 - **Audience:** Children aged 3–6, read aloud by a caregiver
 - **Language:** English; explain occasional unfamiliar words in brackets
 - **Format:** Approximately 4–5 minutes per section
@@ -17,7 +17,13 @@ The core account should remain understandable to ages 3–4. Difficult events mu
 
 ## Progress
 
-Section 1, [A Dream of Stars](sections/01-a-dream-of-stars.md), has been drafted and is awaiting parent review. The remaining sections are still planned.
+Sections 1–4 are drafted and awaiting parent review:
+- [Section 1 — A Dream of Stars](sections/01-a-dream-of-stars.md)
+- [Section 2 — A Painful Plan](sections/02-a-painful-plan.md)
+- [Section 3 — A New Place in Egypt](sections/03-a-new-place-in-egypt.md)
+- [Section 4 — Choosing What Is Right](sections/04-choosing-what-is-right.md)
+
+Sections 5–10 remain planned. See the [progress tracker](progress.md).
 
 ## Files
 
@@ -28,4 +34,4 @@ Section 1, [A Dream of Stars](sections/01-a-dream-of-stars.md), has been drafted
 
 ## Scope and review note
 
-This is an age-adapted retelling plan, not a substitute for Qur'anic study or religious rulings. The parent should review the treatment of family conflict, the household incident in 12:23–35, imprisonment, and the later brothers' encounter before any section is drafted.
+This is an age-adapted retelling plan, not a substitute for Qur'anic study or religious rulings. The parent should review the treatment of family conflict, the household incident in 12:23–35, imprisonment, and the later brothers' encounter before any section is considered approved.
